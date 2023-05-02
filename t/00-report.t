@@ -43,8 +43,8 @@ diag(
 
 {
     my @options = qw{
-        Module::Pluggable Sub::Name Term::ReadKey Term::Size::Any Unicode::GCString
-        Unicode::LineBreak
+        JSON::MaybeXS Module::Pluggable Sub::Name Term::ReadKey Term::Size::Any
+        Unicode::GCString Unicode::LineBreak
     };
 
     my @rows;
